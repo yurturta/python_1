@@ -5,4 +5,10 @@ Created on Mon Sep 26 10:23:20 2016
 @author: yurtaturta
 """
 
-print('hello world')
+from time import sleep
+
+while(True):
+    print('hello world')
+    sleep(5)
+
+
